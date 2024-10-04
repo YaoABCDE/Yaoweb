@@ -4,14 +4,14 @@ layout: BlogHome
 icon: home
 title: 博客主页
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-heroText: 你博客的名称
+heroText: yao
 heroFullScreen: true
-tagline: 你可以在这里放置你的口号与标语
+tagline: 称霸世界
 projects:
   - icon: project
-    name: 项目名称
-    desc: 项目详细描述
-    link: https://你的项目链接
+    name: 森海鹿电子
+    desc: 电子硬件、编程、嵌入式
+    link: https://baidu.com
 
   - icon: link
     name: 链接名称
