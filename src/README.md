@@ -1,7 +1,8 @@
 ---
 home: true
 layout: BlogHome
-icon: home
+#icon: home
+icon: project
 title: Yao的主页
 heroImage: "/YaoPhoto/png/logo3.png"
 #heroImage: https://theme-hope-assets.vuejs.press/logo.svg

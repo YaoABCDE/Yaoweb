@@ -13,7 +13,8 @@ export default hopeTheme({
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+  //logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+  logo:"/YaoPhoto/png/logo3.png", //右上角图标
 
   repo: "vuepress-theme-hope/vuepress-theme-hope",
 
@@ -66,6 +67,7 @@ export default hopeTheme({
       Youtube: "https://example.com",
       Zhihu: "https://example.com",
       VuePressThemeHope: {
+                //icon: "/YaoPhoto/png/logo1.png",
         icon: "https://theme-hope-assets.vuejs.press/logo.svg",
         link: "https://theme-hope.vuejs.press",
       },
