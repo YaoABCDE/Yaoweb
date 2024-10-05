@@ -6,8 +6,8 @@ export default defineUserConfig({
   base: "/Yaoweb/",
 
   lang: "zh-CN",
-  title: "博客演示",
-  description: "vuepress-theme-hope 的博客演示",
+  title: "Yao", //标题展示 右上角显示
+  description: "就做不一样", //标题展示
 
   theme,
 

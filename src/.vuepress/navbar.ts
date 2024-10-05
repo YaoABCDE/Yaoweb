@@ -3,8 +3,9 @@ import { navbar } from "vuepress-theme-hope";
 export default navbar([
   "/",
   "/demo/",
+  //标题栏3
   {
-    text: "博文",
+    text: "标题栏3(博文)",
     icon: "pen-to-square",
     prefix: "/posts/",
     children: [
@@ -44,9 +45,16 @@ export default navbar([
       "strawberry",
     ],
   },
+//标题栏4
   {
-    text: "V2 文档",
+    text: "标题栏4(doc展示)",
     icon: "book",
     link: "https://theme-hope.vuejs.press/zh/",
+  },
+//标题栏5
+  {
+    text: "标题栏5(小米)",
+    icon: "book",
+    link: "https://mi.com",
   },
 ]);
